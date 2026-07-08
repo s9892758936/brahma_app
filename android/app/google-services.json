@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "86506563533",
+    "project_id": "brahma-app-3f6bf",
+    "storage_bucket": "brahma-app-3f6bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86506563533:android:38330d023ad7a9a93c0684",
+        "android_client_info": {
+          "package_name": "com.brahma.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86506563533-krldtfn3bfm7rj7molsimb0j9dt08hbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brahma.app",
+            "certificate_hash": "c3c80de517a3f3ed446c24a88f7df76fd03525e9"
+          }
+        },
+        {
+          "client_id": "86506563533-mdcttee5oi5pdn2fpritu5dd0uldfqab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4v521waGY_zkXcXah8LwJ6b8b2-tDwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86506563533-mdcttee5oi5pdn2fpritu5dd0uldfqab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86506563533-ss2f8ji6a3j1us7rt767gu1jrrvkt4rr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brahmaApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86506563533:android:9c974c5eb189becf3c0684",
+        "android_client_info": {
+          "package_name": "com.example.brahma_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86506563533-mdcttee5oi5pdn2fpritu5dd0uldfqab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4v521waGY_zkXcXah8LwJ6b8b2-tDwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86506563533-mdcttee5oi5pdn2fpritu5dd0uldfqab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86506563533-ss2f8ji6a3j1us7rt767gu1jrrvkt4rr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brahmaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
